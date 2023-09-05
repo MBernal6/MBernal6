@@ -22,7 +22,7 @@ I'm a Economist who is obsessed with Data science and always looking to find pat
 <img src="https://img.shields.io/badge/-Pandas-FF8000?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/-SKLearn-FF8000?style=for-the-badge&logo=scikit-learn"/>
 <img src="https://img.shields.io/badge/-SQL-007FFF?style=for-the-badge&logo=sql"/>
-<img src="https://img.shields.io/badge/-PoweBi-007FFF?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/-PowerBi-007FFF?style=for-the-badge&logo=powerbi"/>
 <img src="https://img.shields.io/badge/-Tableau-007FFF?style=for-the-badge&logo=tableau"/>
 <img src="https://img.shields.io/badge/-Shell-7F00FF?style=for-the-badge&logo=gnu-bash"/>
 <img src="https://img.shields.io/badge/-Git-7F00FF?style=for-the-badge&logo=git"/>
