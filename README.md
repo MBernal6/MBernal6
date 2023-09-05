@@ -26,6 +26,7 @@ I'm a Economist who is obsessed with Data science and always looking to find pat
 <img src="https://img.shields.io/badge/-Tableau-007FFF?style=for-the-badge&logo=tableau"/>
 <img src="https://img.shields.io/badge/-Shell-7F00FF?style=for-the-badge&logo=gnu-bash"/>
 <img src="https://img.shields.io/badge/-Git-7F00FF?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/-Java-7F00FF?style=for-the-badge&logo=java"/>
 <img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/></p>
 <!--END_SECTION:colourise-->
 
